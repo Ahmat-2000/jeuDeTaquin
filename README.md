@@ -30,7 +30,7 @@ Pour lancer l'application, suivez ces instruction
 1. Clonez le dépôt sur votre machine locale :
 
 ```bash
-git clone git@github.com:Ahmat-2000/projetAnnuel.git
+git clone git@github.com:Ahmat-2000/jeuDeTaquin.git
 ```
 
 2. Naviguez dans le dossier du projet :
