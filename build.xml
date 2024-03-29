@@ -1,7 +1,7 @@
-<project name="Jeu-de-la-vie" default="all" basedir=".">
+<project name="Jeu-de-taquin" default="all" basedir=".">
     
     <!-- ==================== Properties =========================== -->
-    <property name="app.name"      value="Jeu-de-la-vie" />
+    <property name="app.name"      value="Jeu-de-taquin" />
     <property name="app.version"   value="1.0"/>
     <property name="app.fullname"   value="${app.name}-${app.version}"/>
     <property name="build.home"    value="${basedir}/build"/>
